@@ -18,7 +18,9 @@ Mood Tracker is a user-friendly Python program that helps log daily moods along 
 ## Key Files & Folders
 
 | **`Mood_Tracker.ipynb`** | Contains all Python code, structured into clear Colab notebook cells: setup, helpers, logging, viewing, and the main menu. |
+
 | **`mood_data.json`** | Stores all logged moods and notes in a simple JSON format — easy to open, edit, and verify. |
+
 | **`MT presentation.pptx`** | Short presentation explaining the project overview, design, structure, and steps to run and test. |
 
 
@@ -32,7 +34,9 @@ Mood Tracker is a user-friendly Python program that helps log daily moods along 
    - **1:** Log a new mood
    - **2:** View moods by date or mood type
    - **3:** Exit the tracker
+     
 4. **Verify data:** Check `mood_data.json` to confirm moods are saved and updated correctly.
+   
 5. **Test filtering:** Add a few sample moods and try viewing by date or mood type to ensure everything works as expected.
 
 ## Seed Data
